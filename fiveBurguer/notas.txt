@@ -1,0 +1,20 @@
+notas sobre o projeto
+
+#Construção
+
+-usuário.js
+  --Construir um usuário (id, nome, whats, cep, pagamento) - 3 usuários - html(site)
+  --Função buscarUsuario(id)
+
+-pedidos.js
+  --Construir pedidos (id, usuárioId, produtoid ,quantidade, valor) 3 pedidos
+  --Função buscarPedidos(usuarioId)
+  --
+-produtos.js
+  --Construir produtos (id, nome, preco) - 5 produtos
+  --Função buscraProdutos()
+
+-index.js
+  --Importar os módulos 
+  --Função fecharConta(usuarioId)
+  --criar arquivo (a conta fechada)

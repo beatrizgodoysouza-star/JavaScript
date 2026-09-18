@@ -1,0 +1,22 @@
+{
+  "estabelecimento": "Five Burguer",
+  "cliente": {
+    "id": 1,
+    "nome": "Beatriz"
+  },
+  "itens": [
+    {
+      "item": "Five Pool",
+      "quantidade": 2,
+      "precoUnitario": 46,
+      "subTotal": 92
+    },
+    {
+      "item": "Five BBQ",
+      "quantidade": 1,
+      "precoUnitario": 32,
+      "subTotal": 32
+    }
+  ],
+  "totalPagar": 124
+}
